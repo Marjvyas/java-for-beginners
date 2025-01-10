@@ -1,4 +1,4 @@
-package conditional_and_loops;
+// package conditional_and_loops;
 import java.util.Scanner;
 public class greater_among_three {
     public static void main(String[] args) {
