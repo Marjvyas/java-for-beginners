@@ -1,4 +1,4 @@
-package conditional_and_loops;
+// package conditional_and_loops;
 import java.util.Scanner;
 public class odd_and_even_nums {
     public static void main(String[] args) {
