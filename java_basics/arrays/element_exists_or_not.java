@@ -1,6 +1,6 @@
 package arrays;
 import java.util.Scanner;
-public class element_exista_or_not {
+public class element_exists_or_not {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.print("Enter value of n: ");
