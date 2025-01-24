@@ -66,7 +66,13 @@ public class cylinder_rectangle {
         System.out.println("surface area: "+c.getsurfacearea());
         System.out.println("volume: "+c.getvolume());
         
-        rectangle r=new rectangle();
+        // rectangle r=new rectangle();
+        // System.out.println("height: "+r.getlength());
+        // System.out.println("radius: "+r.getbredth());
+        // System.out.println("surface area: "+r.getarea());
+        // System.out.println("volume: "+r.getperimeter());
+
+        rectangle r=new rectangle(1,2);
         System.out.println("height: "+r.getlength());
         System.out.println("radius: "+r.getbredth());
         System.out.println("surface area: "+r.getarea());
