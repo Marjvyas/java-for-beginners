@@ -1,4 +1,4 @@
-package java_for_beginners.Object_Oriented_Programming.access_modifiers;
+package java_for_beginners.Object_Oriented_Programming;
 class Employee_details{
     private int id;
     private String name;

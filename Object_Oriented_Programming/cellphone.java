@@ -1,4 +1,4 @@
-package java_for_beginners.Object_Oriented_Programming.basics;
+package java_for_beginners.Object_Oriented_Programming;
 class Mobile{
     public void ring(){
         System.out.println("Ringing....");
