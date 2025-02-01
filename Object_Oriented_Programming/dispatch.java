@@ -20,5 +20,6 @@ public class dispatch {
     public static void main(String[] args) {
         Phone obj=new SmartPhone();
         obj.ring();
+        //obj.smartphone(); //not allowed...
     }
 }
