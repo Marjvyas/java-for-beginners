@@ -1,3 +1,5 @@
+// Description: Write a Java program to calculate the area of a parallelogram.
+// The program will take two integers as input and will calculate the area of the parallelogram using the formula: area = base * height.
 import java.util.Scanner;
 
 public class area_of_parallelogram {

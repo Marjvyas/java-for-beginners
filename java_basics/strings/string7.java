@@ -1,3 +1,6 @@
+// Description: Java program to find the smallest and largest substring of length k from a given string.
+// The program will take a string and an integer k as input and will return the smallest and largest substring of length k.
+// The program will use the substring() method of the String class to extract the substrings.
 package strings;
 
 import java.util.Scanner;

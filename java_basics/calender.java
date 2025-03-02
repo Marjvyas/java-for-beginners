@@ -1,3 +1,5 @@
+// Description: Write a program to get the day of the week for a given date.
+// The program will take three integers as input: day, month, and year, and will return the day of the week for that date.
 import java.util.Calendar;
 
 public class calender {
